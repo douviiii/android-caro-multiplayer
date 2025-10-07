@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cờ Caro</string>
+    
+    <!-- Game Mode -->
+    <string name="select_game_mode">Chọn chế độ chơi:</string>
+    <string name="play_with_ai">Chơi với AI</string>
+    <string name="play_two_players">Chơi 2 người</string>
+    <string name="ai_description">3 mức độ khó khác nhau</string>
+    <string name="multiplayer_description">Kết nối qua Bluetooth</string>
+    
+    <!-- Difficulty -->
+    <string name="select_difficulty">Chọn độ khó:</string>
+    <string name="easy">Dễ</string>
+    <string name="medium">Trung bình</string>
+    <string name="hard">Khó</string>
+    <string name="easy_3x3">Dễ (3x3)</string>
+    <string name="medium_6x6">Trung bình (6x6)</string>
+    <string name="hard_9x9">Khó (9x9)</string>
+    <string name="ai_random">AI ngẫu nhiên</string>
+    <string name="ai_smart">AI thông minh</string>
+    <string name="ai_expert">AI chuyên gia</string>
+    
+    <!-- Game Status -->
+    <string name="your_turn">Lượt của bạn</string>
+    <string name="ai_turn">Lượt của AI</string>
+    <string name="opponent_turn">Lượt của đối thủ</string>
+    <string name="you_win">Bạn thắng!</string>
+    <string name="ai_wins">AI thắng!</string>
+    <string name="opponent_wins">Đối thủ thắng!</string>
+    <string name="draw">Hòa!</string>
+    <string name="game_over">Kết thúc game</string>
+    
+    <!-- Win Rules -->
+    <string name="win_3_in_row">3 ô liên tiếp</string>
+    <string name="win_5_in_row">5 ô liên tiếp</string>
+    
+    <!-- Buttons -->
+    <string name="start_playing">Bắt đầu chơi</string>
+    <string name="start_playing_ai">Bắt đầu chơi với AI</string>
+    <string name="change_difficulty">Thay đổi độ khó</string>
+    <string name="change_mode">Thay đổi chế độ</string>
+    <string name="back">Quay lại</string>
+    <string name="restart">Chơi lại</string>
+    <string name="quit">Thoát</string>
+    
+    <!-- Bluetooth -->
+    <string name="bluetooth_connection">Kết nối Bluetooth</string>
+    <string name="create_room">Tạo phòng (Host)</string>
+    <string name="join_room">Tham gia (Client)</string>
+    <string name="waiting_connection">Đang chờ kết nối...</string>
+    <string name="select_device">Chọn thiết bị để kết nối</string>
+    <string name="paired_devices">Thiết bị đã ghép đôi:</string>
+    <string name="no_paired_devices">Không có thiết bị nào được ghép đôi</string>
+    <string name="unknown_device">Thiết bị không xác định</string>
+    <string name="connecting">Đang kết nối...</string>
+    <string name="connected">Đã kết nối</string>
+    <string name="disconnected">Mất kết nối</string>
+    
+    <!-- Game Info -->
+    <string name="vs_ai">vs AI</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="win_rule_format">%1$s - %2$s (%3$dx%4$d) - Thắng: %5$s</string>
+    
+    <!-- Instructions -->
+    <string name="instructions">Hướng dẫn:</string>
+    <string name="ai_instructions">• AI: Chọn độ khó và chơi với máy\n• Multiplayer: Tạo phòng hoặc tham gia phòng qua Bluetooth</string>
+    
+    <!-- Language -->
+    <string name="language">Ngôn ngữ</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="select_language">Chọn ngôn ngữ:</string>
+</resources>

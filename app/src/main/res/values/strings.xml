@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caro Chess</string>
+    
+    <!-- Game Mode -->
+    <string name="select_game_mode">Select Game Mode:</string>
+    <string name="play_with_ai">Play with AI</string>
+    <string name="play_two_players">Play 2 Players</string>
+    <string name="ai_description">3 difficulty levels</string>
+    <string name="multiplayer_description">Connect via Bluetooth</string>
+    
+    <!-- Difficulty -->
+    <string name="select_difficulty">Select Difficulty:</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="easy_3x3">Easy (3x3)</string>
+    <string name="medium_6x6">Medium (6x6)</string>
+    <string name="hard_9x9">Hard (9x9)</string>
+    <string name="ai_random">AI Random</string>
+    <string name="ai_smart">AI Smart</string>
+    <string name="ai_expert">AI Expert</string>
+    
+    <!-- Game Status -->
+    <string name="your_turn">Your Turn</string>
+    <string name="ai_turn">AI Turn</string>
+    <string name="opponent_turn">Opponent Turn</string>
+    <string name="you_win">You Win!</string>
+    <string name="ai_wins">AI Wins!</string>
+    <string name="opponent_wins">Opponent Wins!</string>
+    <string name="draw">Draw!</string>
+    <string name="game_over">Game Over</string>
+    
+    <!-- Win Rules -->
+    <string name="win_3_in_row">3 in a row</string>
+    <string name="win_5_in_row">5 in a row</string>
+    
+    <!-- Buttons -->
+    <string name="start_playing">Start Playing</string>
+    <string name="start_playing_ai">Start Playing with AI</string>
+    <string name="change_difficulty">Change Difficulty</string>
+    <string name="change_mode">Change Mode</string>
+    <string name="back">Back</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+    
+    <!-- Bluetooth -->
+    <string name="bluetooth_connection">Bluetooth Connection</string>
+    <string name="create_room">Create Room (Host)</string>
+    <string name="join_room">Join (Client)</string>
+    <string name="waiting_connection">Waiting for connection...</string>
+    <string name="select_device">Select device to connect</string>
+    <string name="paired_devices">Paired Devices:</string>
+    <string name="no_paired_devices">No paired devices</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    
+    <!-- Game Info -->
+    <string name="vs_ai">vs AI</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="win_rule_format">%1$s - %2$s (%3$dx%4$d) - Win: %5$s</string>
+    
+    <!-- Instructions -->
+    <string name="instructions">Instructions:</string>
+    <string name="ai_instructions">• AI: Choose difficulty and play with computer\n• Multiplayer: Create room or join room via Bluetooth</string>
+    
+    <!-- Language -->
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="select_language">Select Language:</string>
+</resources>
